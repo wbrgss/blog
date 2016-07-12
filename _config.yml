@@ -8,7 +8,13 @@ paginate:	2 # The number of posts to show per page on your homepage
 name: "William Burgess"
 markdown: kramdown
 permalink: none
+twitter:
+  consumer_key: E0yVTwzoz6dZkDHG2fXN9tHIB
+  consumer_secret: rzVNQorxF97d8kMAoW7kkfTZx94f4qYKizftwZeta69rJHNCbQ
+  access_token: 1872371671-Z059QpUSXO5oqy6MUwC7yAM7YywsK1j1C7obxQd
+  access_token_secret: bqZtrzno8FEj2djkRMLJusqWrSi5e7FEHpQehztMFamRs
 kramdown:
   parse_block_html: true
 gems:
   - jekyll-paginate
+  - jekyll-twitter-plugin

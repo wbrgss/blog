@@ -1,11 +1,11 @@
-title: Immaculate
+title: Bill Burgess Blog
 description: >
-  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+  A beautiful, fast, Bill
 baseurl: "/blog"
 production_url : http://wbrgss.github.io/blog
 BASE_PATH : http://wbrgss.com/blog
 paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
+name: "William Burgess"
 markdown: kramdown
 permalink: none
 kramdown:

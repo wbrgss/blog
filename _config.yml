@@ -1,0 +1,14 @@
+title: Immaculate
+description: >
+  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+baseurl: "/blog"
+production_url : http://wbrgss.github.io/blog
+BASE_PATH : http://wbrgss.com/blog
+paginate:	2 # The number of posts to show per page on your homepage
+name: "Lau Siaw Young"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate

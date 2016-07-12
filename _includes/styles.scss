@@ -3,6 +3,7 @@ $baseurl: '{{ site.baseurl }}';
 $grey-color: #828282;
 
 @import 'tufte';
+@import 'moot_override';
 // @import 'syntax-highlighting';
 
 main {

@@ -9,6 +9,21 @@
     
       
       <item>
+        <title>Now THIS is no more MOOT</title>
+        
+          <description>&lt;h1 id=&quot;no-more-moot&quot;&gt;NO MORE MOOT&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Tue, 12 Jul 2016 00:00:00 -0400</pubDate>
+        <link>
+        /tryme.html</link>
+        <guid isPermaLink="true">/tryme.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Now THIS is Pod Racing</title>
         
           <description>&lt;h1 id=&quot;just&quot;&gt;JUST&lt;/h1&gt;
@@ -17,8 +32,23 @@
         
         <pubDate>Mon, 11 Jul 2016 00:00:00 -0400</pubDate>
         <link>
-        /test_post.html</link>
-        <guid isPermaLink="true">/test_post.html</guid>
+        /test_post.md.html</link>
+        <guid isPermaLink="true">/test_post.md.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Immaculate Showcase</title>
+        
+          <description>&lt;p&gt;#JUST&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 11 Jul 2016 00:00:00 -0400</pubDate>
+        <link>
+        /postit.html</link>
+        <guid isPermaLink="true">/postit.html</guid>
       </item>
       
     

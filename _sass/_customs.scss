@@ -17,6 +17,10 @@ a.page-link:hover {color: #000000}
 a.page-link:visited {color: #0000EE}
 a.page-link:visited:hover {color: #000000}
 
+p a:link {
+    color: #0000EE;
+}
+
 body {
 	background:#f7f7fe url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAUBAMAAAA5EaOUAAAALVBMVEUAAAD8/vzk4vzk6vzs8vzc3vz8+vzs6vz08vz09vzc4vz0+vzk5vzs7vzc2vyOCNAMAAAAAXRSTlMAQObYZgAAAfZJREFUGJUFwc9q2nAAAODfK0TQNqCCgzo3Gm+DFXYq7NYe2i0mGbEQh5luKqRgrBCFCC46TEGhJpEobAdP8w12STqjGUZomH8CKnTgasfsM/T7AG8u/L0BtkERn+YbPVmbTeZwMd91A3573bqYq6kZOmGbOLJqjHVh0oDegmObYOoXBcQeIXsiQitaL80mT1pfweIy9U1kSEvdctOxBjO86dsgQfITqDOlIjPh1J02IfSGvBpzqNO2lzgH/f8+IuVtchIXI/pu3ls9qdJay20D3Dbkj3rSye3WcHh8mftTlbuBQwcCa2HwGrfj8hkqmmW8SDwoXMJ6n6WAsagMpN92Xbm14bYUfxNUYulESK0C6suQu2N59L6MHUwjkZ3aXwgWDPQDYP1Hwo/ZfM82MuEXVg6C+kZp3hb3gaS83Fp09tpv5rFMaOT6NSTTOVRXQDjyU++myzV/VT4WO46+fNbjFJdGgTxuYEdkA5IrCl//x7BFn0sfRN0s8JYgnpJfdUI6lhqgDpssYMpnyabBu1sPLZEHV0/N/faWWLHbcoo5hxf3oJahg6SFWsu50A8MuRLtIInZQ0IDzIaEiJxnq52Osnl5Q5RuVsx6KPJg93mBLQRMPX5DpeGrSnRZ36iiFfWApBHlvutnYUhFY4zevetMETldc8xHPlH3LkYFBtkAAAAASUVORK5CYII=);
 }

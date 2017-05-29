@@ -4,7 +4,7 @@ description: >
 baseurl: "/blog"
 production_url : http://wbrgss.github.io/blog
 BASE_PATH : http://wbrgss.com/blog
-paginate:	2 # The number of posts to show per page on your homepage
+paginate:	5 # The number of posts to show per page on your homepage
 name: "William Burgess"
 markdown: kramdown
 permalink: none
